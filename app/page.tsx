@@ -21,7 +21,7 @@ export default async function Home() {
     <div className="min-h-screen bg-black text-zinc-100 font-sans selection:bg-lime-400 selection:text-black">
       
       {/* 顶部导航栏 (Spotify 风格) */}
-      <Navbar />git init
+      <Navbar />
 
       {/* 主内容区 */}
       <main className="max-w-6xl mx-auto px-4 py-12">
